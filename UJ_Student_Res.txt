@@ -1,0 +1,28 @@
+Architect Information
+Name: Mike
+Telephone Number: 0928896517
+Email Address: mike@gmail.com
+Company Address: Durban North
+
+Client Information
+Name: Kurt
+Telephone Number: 0928896715
+Email Address: kurt@gmail.com
+Company Address: Bloemfontein
+
+Contractor's Information
+Name: Peter
+Telephone Number: 0967166589
+Email Address: peter@gmail.com
+Company Address: Weltevredenpark
+
+Project information
+Project number: 145
+Project name: UJ Student Res
+Project type: Building
+Project address : Johannesburg
+ERF number: 342A
+Project value: R653000.0
+Amount paid to date: R365000.0
+Project deadline: 15/04/2022
+Project status: No

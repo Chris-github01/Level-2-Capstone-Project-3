@@ -1,0 +1,27 @@
+Architect Information
+Name: Jannes
+Telephone Number: 0929876290
+Email Address: jannes@gmail.com
+Company Address: Randpark Ridge
+
+Client Information
+Name: Deon
+Telephone Number: 0948823126
+Email Address: deon@gmail.com
+Company Address: Fairlands
+
+Contractor's Information
+Name: Jaco
+Telephone Number: 0964418709
+Email Address: jaco@gmail.com
+Company Address: Linksfield
+
+Project information
+Project number: 777
+Project name: Student Res
+Project type: Building
+Project address : Pretoria Central
+ERF number : 123C
+Project value : R540000.0
+Amount paid to date : R230000.0
+Project deadline : 17/09/2022

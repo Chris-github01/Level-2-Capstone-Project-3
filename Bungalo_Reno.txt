@@ -1,0 +1,27 @@
+Architect Information
+Name: Chris
+Telephone Number: 0824668605
+Email Address: chris@gmail.com
+Company Address: Little Falls
+
+Client Information
+Name: John
+Telephone Number: 0929904162
+Email Address: john@gmail.com
+Company Address: Pretoria
+
+Contractor's Information
+Name: Ben
+Telephone Number: 0986627816
+Email Address: ben@gmail.com
+Company Address: Randburg
+
+Project information
+Project number: 111
+Project name: Bungalo Reno
+Project type: Building
+Project address : Ingwelala
+ERF number : 196
+Project value : R500000.0
+Amount paid to date : R0.0
+Project deadline : 02/10/2022
