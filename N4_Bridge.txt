@@ -1,0 +1,27 @@
+Architect Information
+Name: Kelvin
+Telephone Number: 0910081672
+Email Address: kelvin@gmail.com
+Company Address: Benoni
+
+Client Information
+Name: William
+Telephone Number: 0938891290
+Email Address: william@gmail.com
+Company Address: Johannesburg
+
+Contractor's Information
+Name: Edward
+Telephone Number: 0928912671
+Email Address: edward@gmail.com
+Company Address: Strubensvalley
+
+Project information
+Project number: 222
+Project name: N4 Bridge
+Project type: Civils
+Project address : N4 West
+ERF number : 123A
+Project value : R230000.0
+Amount paid to date : R120000.0
+Project deadline : 03/04/2022

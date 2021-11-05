@@ -1,0 +1,27 @@
+Architect Information
+Name: Ethan
+Telephone Number: 0928891756
+Email Address: ethan@gmail.com
+Company Address: Sandton
+
+Client Information
+Name: Hendrik
+Telephone Number: 0927817782
+Email Address: hendrik@gmail.com
+Company Address: Rosebank
+
+Contractor's Information
+Name: Kevin
+Telephone Number: 0927891128
+Email Address: kevin@gmail.com
+Company Address: Cape Town
+
+Project information
+Project number: 444
+Project name: Ocean View
+Project type: Building
+Project address : Cape Point
+ERF number : 896
+Project value : R700000.0
+Amount paid to date : R340000.0
+Project deadline : 25/11/2022

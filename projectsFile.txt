@@ -1,0 +1,8 @@
+[Bungalo Reno, Chris, 824668605, chris@gmail.com, Little Falls, John, 929904162, john@gmail.com, Pretoria, Ben, 986627816, ben@gmail.com, Randburg, 111, Building, Ingwelala, 196, 500000.0, 12.0, 13/11/2022, No]
+[N4 Bridge, Kelvin, 910081672, kelvin@gmail.com, Benoni, William, 93, william@gmail.com, Johannesburg, Edward, 928912671, edward@gmail.com, Strubensvalley, 222, Civils, N4 West, 123A, 230000.0, 52000.0, 09/10/2022, No]
+[Highway mall, Ryan, 930091276, ryan@gmail.com, Helderkruin, Sam, 986671547, sam@gmail.com, Johannesburg, Kyle, 987782566, kyle@gmail.com, Durban, 333, R&E, N1 North, 126B, 200000.0, 200000.0, 16/08/2021, Yes]
+[Ocean View, Ethan, 928891756, ethan@gmail.com, Sandton, Hendrik, 927817782, hendrik@gmail.com, Rosebank, Kevin, 927891128, kevin@gmail.com, Cape Town, 444, Building, Cape Point, 896, 700000.0, 15.0, 09/08/2022, No]
+[Sky bridge, Jack, 912788965, jack@gmail.com, Hatfield, Mark, 981678266, mark@gmail.com, Belfast, Alex, 978278176, alex@gmail.com, Pretoria, 555, Civils, Johannesburg, 125B, 50.0, 50.0, 24/10/2021, Yes]
+[Student Res, Jannes, 929876290, jannes@gmail.com, Randpark Ridge, Deon, 948823126, deon@gmail.com, Fairlands, Jaco, 964418709, jaco@gmail.com, Linksfield, 777, Building, Pretoria Central, 123C, 540000.0, 230000.0, 03/03/2022, No]
+[UJ Student Res, Mike, 928896517, mike@gmail.com, Durban North, Kurt, 928896715, kurt@gmail.com, Bloemfontein, Peter, 967166589, peter@gmail.com, Weltevredenpark, 145, Building, Johannesburg, 342A, 653000.0, 30.0, 15/04/2022, No]
+[Retail Crossing, Thomas, 927781674, thomas@gmail.com, Sandton CBD, Karen, 967581161, karen@gmail.com, Randpark Ridge, Samuel, 989906718, samuel@gmail.com, Roodepoort, 996, Building, Little Falls, 167B, 540000.0, 20.0, 02/08/2021, Yes]

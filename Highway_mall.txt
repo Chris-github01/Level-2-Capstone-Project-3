@@ -1,0 +1,27 @@
+Architect Information
+Name: Ryan
+Telephone Number: 0930091276
+Email Address: ryan@gmail.com
+Company Address: Helderkruin
+
+Client Information
+Name: Sam
+Telephone Number: 0986671547
+Email Address: sam@gmail.com
+Company Address: Johannesburg
+
+Contractor's Information
+Name: Kyle
+Telephone Number: 0987782566
+Email Address: kyle@gmail.com
+Company Address: Durban
+
+Project information
+Project number: 333
+Project name: Highway mall
+Project type: R&E
+Project address : N1 North
+ERF number : 126B
+Project value : R200000.0
+Amount paid to date : R120000.0
+Project deadline : 16/04/2022

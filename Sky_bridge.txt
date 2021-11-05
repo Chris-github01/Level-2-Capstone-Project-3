@@ -1,0 +1,27 @@
+Architect Information
+Name: Jack
+Telephone Number: 0912788965
+Email Address: jack@gmail.com
+Company Address: Hatfield
+
+Client Information
+Name: Mark
+Telephone Number: 0981678266
+Email Address: mark@gmail.com
+Company Address: Belfast
+
+Contractor's Information
+Name: Alex
+Telephone Number: 0978278176
+Email Address: alex@gmail.com
+Company Address: Pretoria
+
+Project information
+Project number: 555
+Project name: Sky bridge
+Project type: Civils
+Project address : Johannesburg
+ERF number : 125B
+Project value : R340000.0
+Amount paid to date : R0.0
+Project deadline : 24/10/2022

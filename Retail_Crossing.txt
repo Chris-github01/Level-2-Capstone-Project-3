@@ -1,0 +1,28 @@
+Architect Information
+Name: Thomas
+Telephone Number: 0927781674
+Email Address: thomas@gmail.com
+Company Address: Sandton CBD
+
+Client Information
+Name: Karen
+Telephone Number: 0967581161
+Email Address: karen@gmail.com
+Company Address: Randpark Ridge
+
+Contractor's Information
+Name: Samuel
+Telephone Number: 0989906718
+Email Address: samuel@gmail.com
+Company Address: Roodepoort
+
+Project information
+Project number: 996
+Project name: Retail Crossing
+Project type: Building
+Project address : Little Falls
+ERF number: 167B
+Project value: R540000.0
+Amount paid to date: R367000.0
+Project deadline: 02/08/2021
+Project status: No
