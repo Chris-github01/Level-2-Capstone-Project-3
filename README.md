@@ -1,6 +1,7 @@
 # Level-2-Capstone-Project-3
 ## Poised Program - File handling
 ### This program allows the user to generate a construction project by registerring all relevant parties (Architect, Engineer and Client) and uploading info regarding the project. This program focusses on reading and writing info to and from text files.
+### Defensive programming was used by means of try/catch blocks to ensure the user enters the correct info. Should the user enter an incorrect menu option as an example, the program will inform the user that an incorrect option was selected and that a correct option should be chosen
 ### There is a main menu with options for the user to select from. The menu options are as follow:
 ### *Main Menu*
 1. Add project
@@ -43,4 +44,7 @@
 2. View projects overdue
 
 ### *4. View project*
-#### This option allows the user to rearch for a specific project by project number to view the project information
+#### This option allows the user to search for a specific project by project number to view the project information
+
+###  *5 Exit*
+#### The program will terminate
