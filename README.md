@@ -9,7 +9,7 @@
 4. View project
 5. Exit
 ### The menu options are discussed in more details below:
-### *1. Add project*
+#### *1. Add project*
 ### A second menu under 'Edit specific project' gives the user the following options:
 1. Change due date
 2. Change total amount paid
