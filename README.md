@@ -10,6 +10,19 @@
 5. Exit
 ### The menu options are discussed in more details below:
 #### *1. Add project*
+* For each relevant party the following info is needed:
+  - Name
+  - Contact info
+  - Company address
+* For each project the following info is needed
+  - Project name and number
+  - Project type (Building, Civils, R&E)
+  - Erf number
+  - Project Value
+  - Amount paid to date
+  - Project Deadline
+#### *2. Edit specific project*
+ 
 ### A second menu under 'Edit specific project' gives the user the following options:
 1. Change due date
 2. Change total amount paid
