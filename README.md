@@ -22,11 +22,25 @@
   - Project Value
   - Amount paid to date
   - Project Deadline
-### *2. Edit specific project*
- 
-#### A second menu under 'Edit specific project' gives the user the following options:
+
+### *2. Edit specific project* 
+#### A menu under 'Edit specific project' gives the user the following options:
 1. Change due date
 2. Change total amount paid
-3. Change contractor's details
+3. Change client's details
 4. Finalise project
 5. Return to main menu
+
+#### A menu under 'Change client's details' gives the user the following options:
+1. Update client telephone number
+2. Update client email address
+
+#### Under 'Finalise project' an invoice will be generated and the project will be marked as complete
+
+### *3. View projects status*
+#### A menu under 'View projects status' gives the user the following options:
+1. View incomplete projects
+2. View projects overdue
+
+### *4. View project*
+#### This option a
