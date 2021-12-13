@@ -43,4 +43,4 @@
 2. View projects overdue
 
 ### *4. View project*
-#### This option a
+#### This option allows the user to rearch for a specific project by project number to view the project information
